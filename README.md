@@ -3,4 +3,4 @@
 
 [Course link](https://cs50.harvard.edu/python/2022/)
 
-Folders contain lecture notes and assignment projects
+Folders contain lecture notes and assignment projects (with the prefix a*)
